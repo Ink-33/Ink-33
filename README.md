@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/1.png" width='380px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/1.png" width='300px'>
 
 ### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru-h)
@@ -10,7 +10,7 @@
   - 面向[StackOverflow](https://stackoverflow.com/users/12869375/ink33?tab=profile)
   - ~~面向cv~~
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/2.png" width='350px'>
+<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/2.png" width='300px'>
 
 [![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
