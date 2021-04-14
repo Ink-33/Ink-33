@@ -9,6 +9,10 @@
   - 面向Google
   - 面向[StackOverflow](https://stackoverflow.com/users/12869375/ink33?tab=profile)
   - ~~面向cv~~
+- 我正在使用
+  - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org)
+  - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![vsc](https://img.shields.io/badge/-Visual%20Studio%20Code%20Insider-24BFA5?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+  - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/2.png" width='300px'>
 
