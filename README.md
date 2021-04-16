@@ -1,7 +1,7 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/1.png" width='300px'>
 
 ### Hi there 👋
-![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru-h)
+![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru)
 
 这里是Ink33，是一个鸽子
 
