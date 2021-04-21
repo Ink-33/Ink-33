@@ -1,7 +1,7 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width="430px" alt="Kasumi Kirihara" >
 
 ### Hi there 👋
-![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru)
+![Counter](https://count.getloli.com/get/@Ink33?theme=rule34)
 
 这里是Ink33，是一个鸽子  
 
