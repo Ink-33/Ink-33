@@ -1,4 +1,6 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width="430px" alt="Kasumi Kirihara" >
+<a href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php" target="_blank">
+  <img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width="430px" alt="Kasumi Kirihara" title="Kasumi Kirihara" />
+</a>
 
 ### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=rule34)
@@ -18,7 +20,9 @@
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/SakuraKawasaki.png" width="330px" alt= "Sakura Kawasaki" >
+<a href="https://idolypride.jp/character/sakura-kawasaki/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/SakuraKawasaki.png" width="330px" alt= "Sakura Kawasaki" title="Sakura Kawasaki" />
+</a>
 
 [![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
