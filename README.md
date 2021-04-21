@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/1.png" width='300px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width='300px'>
 
 ### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru)
@@ -16,7 +16,7 @@
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33/2.png" width='300px'>
+<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/SakuraKawasaki.png" width='300px'>
 
 [![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
