@@ -1,9 +1,11 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width='300px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/KasumiKirihara.png" width="450px" alt="Kasumi Kirihara" >
 
 ### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=gelbooru)
 
-这里是Ink33，是一个鸽子
+这里是Ink33，是一个鸽子  
+
+我呢，不同时期喜爱的角色不同，目前喜欢的是[川咲桜(Sakura Kawasaki)](https://idolypride.jp/character/sakura-kawasaki/)和[雾原香澄(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)
 
 - 我的编程习惯：
   - 面向Google
@@ -16,7 +18,7 @@
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/SakuraKawasaki.png" width='300px'>
+<img align="left" src="https://cdn.jsdelivr.net/gh/Ink-33/Ink-33@main/waifu/SakuraKawasaki.png" width="330px" alt= "Sakura Kawasaki" >
 
 [![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
