@@ -14,7 +14,7 @@
   </a>
 </details>
 
-我呢，不同时期喜爱的角色不同，目前喜欢的是[川咲桜(Sakura Kawasaki)](https://idolypride.jp/character/sakura-kawasaki/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)
+我呢，不同时期喜爱的角色不同，目前喜欢的是[川咲さくら(Sakura Kawasaki)](https://idolypride.jp/character/sakura-kawasaki/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)
 
 - 我的编程习惯：
   - 面向Google
