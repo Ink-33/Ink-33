@@ -5,7 +5,7 @@
 ### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=rule34)
 
-这里是Ink33，是一个鸽子 
+这里是Ink33，你可以亲切地称呼我为ink或者音可酱
 
 我呢，不同时期喜爱的角色不同，目前喜欢的是[渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)
 
