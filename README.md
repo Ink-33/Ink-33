@@ -7,7 +7,7 @@
 
 这里是Ink33，你可以亲切地称呼我为ink或者音可酱
 
-我呢，不同时期喜爱的角色不同，目前喜欢的是[渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)
+我呢，不同时期喜爱的角色不同，目前最喜欢的是[渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)和[潮流美海(Miuna Shiodome)](http://nagiasu.jp/character/index.html#6)
 
 - 我的编程习惯：
   - 面向Google
