@@ -20,6 +20,11 @@
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
 
+<a href="https://www.lovelive-anime.jp/yuigaoka/member/" target="_blank">
+  <img align="left" src="waifu/KanonShibuya.png" width="330px" alt= "Kanon Shibuya" title="Kanon Shibuya" />
+</a>
+
+
 [![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ink-33)](https://github.com/anuraghazra/github-readme-stats)  
