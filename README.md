@@ -1,8 +1,9 @@
-<a href="https://bang-dream.bushimo.jp/character/maruyama-aya/" target="_blank">
-  <img align="right" src="waifu/AyaMaruyama.png" width="430px" alt="Aya Maruyama" title="Aya Maruyama" />
+### Hi there 👋
+
+<a href="https://www.lovelive-anime.jp/yuigaoka/member/" target="_blank">
+  <img align="right" src="waifu/KanonShibuya.png" width="330px" alt= "Kanon Shibuya" title="Kanon Shibuya" />
 </a>
 
-### Hi there 👋
 ![Counter](https://count.getloli.com/get/@Ink33?theme=rule34)
 
 For those who prefer English -> [README_EN.md](README_EN.md)
@@ -21,14 +22,9 @@ For those who prefer English -> [README_EN.md](README_EN.md)
   - [![Windows](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
-
-<a href="https://www.lovelive-anime.jp/yuigaoka/member/" target="_blank">
-  <img align="left" src="waifu/KanonShibuya.png" width="330px" alt= "Kanon Shibuya" title="Kanon Shibuya" />
-</a>
-
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ink-33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ink-33's github stats](https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ink-33's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ink33)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true" width="380px" alt= "Ink-33's wakatime stats" title="Ink-33's wakatime stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ink33&layout=compact" width="380px" alt= "Ink-33's github stats" title="Ink-33's github stats" />
