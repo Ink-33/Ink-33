@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <a href="https://www.lovelive-anime.jp/yuigaoka/member/" target="_blank">
   <img align="right" src="waifu/KanonShibuya.png" width="330px" alt= "Kanon Shibuya" title="Kanon Shibuya" />
 </a>
+
+### Hi there 👋
 
 ![Counter](https://count.getloli.com/get/@Ink33?theme=rule34)
 
