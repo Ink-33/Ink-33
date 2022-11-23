@@ -23,8 +23,3 @@ For those who prefer English -> [README_EN.md](README_EN.md)
 - 在学
   - [![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter)](https://flutter.dev/)  [![Dart](https://img.shields.io/badge/-Dart-15202F?style=flat-square&logo=Dart)](https://dart.dev/)
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ink-33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ink-33&show_icons=true" width="380px" alt= "Ink-33's wakatime stats" title="Ink-33's wakatime stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ink33&layout=compact" width="380px" alt= "Ink-33's github stats" title="Ink-33's github stats" />
