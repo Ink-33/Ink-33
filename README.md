@@ -1,5 +1,5 @@
-<a href="https://www.lovelive-anime.jp/yuigaoka/member/" target="_blank">
-  <img align="right" src="waifu/KanonShibuya.png" width="330px" alt= "Kanon Shibuya" title="Kanon Shibuya" />
+<a href="https://api.smlk.org/v1/profile/switch?redirect=https://github.com/Ink-33" >
+  <img align="right" src="https://api.smlk.org/v1/profile/image" width="330px" alt= "Dynamic image" title="Click to switch!" />
 </a>
 
 ### Hi there 👋
