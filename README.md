@@ -12,6 +12,8 @@ For those who prefer English -> [README_EN.md](README_EN.md)
 
 我呢，不同时期喜爱的角色不同，目前最喜欢的是[渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)和[丸山彩(Aya Maruyama)](https://bang-dream.bushimo.jp/character/maruyama-aya/)
 
+>(Tips: 右边的看板娘可以点击切换哦)
+
 - 我的编程习惯：
   - 面向Google
   - 面向[StackOverflow](https://stackoverflow.com/users/12869375/ink33?tab=profile)

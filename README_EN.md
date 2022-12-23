@@ -12,6 +12,8 @@ This is Ink33, shortly in ink.
 
 As for me, different periods of time, my preferred characters are different, and currently my most favorite is [渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/) and [霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php) and [丸山彩(Aya Maruyama)](https://bang-dream.bushimo.jp/character/maruyama-aya/)
 
+>(Tips: Feel free to switch character on the right side by clicking on it.)
+
 - My Programming Habits
   - Google Oriented
   - [StackOverflow](https://stackoverflow.com/users/12869375/ink33?tab=profile) Oriented
