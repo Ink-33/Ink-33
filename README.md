@@ -8,7 +8,7 @@
 
 For those who prefer English -> [README_EN.md](README_EN.md)
 
-这里是Ink33，你可以亲切地称呼我为ink或者音可酱
+这里是Ink33，你可以亲切地称呼我为ink或者音可
 
 我呢，不同时期喜爱的角色不同，目前最喜欢的是[渋谷かのん(Kanon Shibuya)](https://www.lovelive-anime.jp/yuigaoka/member/)和[霧原かすみ(Kasumi Kirihara)](https://priconne-redive.jp/ele-wp/wp-content/themes/redive/character/35.php)和[丸山彩(Aya Maruyama)](https://bang-dream.bushimo.jp/character/maruyama-aya/)
 
